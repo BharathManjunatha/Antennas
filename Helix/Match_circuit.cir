@@ -1,0 +1,6 @@
+Matching circuit
+.SUBCKT MatchingNetwork n1 n2
+c1 n2 0 0.79pF
+l1 n1 n2 7.64nH
+.ENDS NWN1
+.end
