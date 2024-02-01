@@ -1,0 +1,1 @@
+ -machinefile runfeko_tmp_machinesfile_1484 -delegate -envall -mapall "C:\Program Files\Altair\2022.3-edu\feko\bin\feko_mkl.csv.impi.exe" "spiral" "--run-from-gui"
