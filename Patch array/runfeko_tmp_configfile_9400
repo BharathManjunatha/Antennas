@@ -1,0 +1,1 @@
+-n 6 -localonly -envall -mapall "C:\Program Files\Altair\2017\FEKO\bin\feko_mkl.csv.impi.exe" "patch_array" "--run-from-gui"
